@@ -27,13 +27,12 @@ This project aims to predict individual medical charges billed by health insuran
 - Sustantial Exploratory Data Analysis (EDA)
   - Distribution analysis
   - Categorical-numerical comparisons
-  - Numerical feature exploration with interaction effects
+  - Numerical feature exploration with interaction effects 
+- `LinearRegression`
 
 ### 🚧 In Progress / Upcoming
-- Further deep-dive EDA
-- Feature engineering and transformation
+
 - Model training and evaluation:
-  - `LinearRegression`
   - `KNeighborsRegressor`
   - `DecisionTreeRegressor`
   - `RandomForestRegressor`
